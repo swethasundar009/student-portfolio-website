@@ -1,4 +1,4 @@
-[[!MasterHead] (https://t4.ftcdn.net/jpg/03/08/82/39/240_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)]
+![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/240_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 <h1 align="center">Hi 👋, I'm Swetha S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width=400px src="https://dribbble.com/shots/16093268-Desktop-Animation">
