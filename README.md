@@ -1,7 +1,7 @@
 ![MasterHead](https://png.pngtree.com/png-clipart/20220510/original/pngtree-coders-and-programmers-team-banner-png-image_7696580.png)
 <h1 align="center">Hi 👋, I'm Swetha S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width=400px src="https://dribbble.com/shots/16093268-Desktop-Animation">
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1193260/screenshots/16093268/media/39d26e0c94a09b36a23e1a61839bda6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethasundar009&label=Profile%20views&color=0e75b6&style=flat" alt="swethasundar009" /> </p>
 
