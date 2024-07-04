@@ -13,7 +13,6 @@ This project is a static website template for a student portfolio. It showcases 
 - [Styling](#Styling)
 - [HTML Tags](#HTMLTags)
 - [JavaScript Functions](#JavaScriptFunctions)
-- [Contact](#contact)
 
 ## Description
 
@@ -41,15 +40,15 @@ This repository contains HTML, CSS, and JavaScript files to create a student por
 
 ## Project Explanation
 
-This portfolio project is designed to showcase the skills and projects of a student. It includes the following sections:
+#This portfolio project is designed to showcase the skills and projects of a student. It includes the following sections:
 
 *Home: An introduction to the portfolio.*
 
-*About: Information about the student's background, education, and skills.*
+*About: The About section provides details about our Prince Academy. It includes information about our background, our educational offerings, and the skills we teach our students.*
 
-*Portfolio: A gallery of projects with descriptions and images.*
+*Portfolio: A gallery of projects with descriptions and images. The Portfolio section contains projects we teach and the skills students acquire in our institute. Each project is displayed with a description and images showcasing the students' work.*
 
-*Contact: A contact form and links to social media profiles.*
+*Contact: A contact form where users can enter their name, email, and a message*
 
 ## Styling
 
@@ -107,11 +106,7 @@ This portfolio project is designed to showcase the skills and projects of a stud
 ![ress3](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/9428340f-5fb8-48df-8f24-8221b8ee36df)
 
 
-## Contact
 
-**For any inquiries or questions, please contact me at:**
-
-* Email: princeacademy009@gmail.com
 
 	
 	
