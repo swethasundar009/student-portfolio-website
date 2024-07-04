@@ -65,13 +65,13 @@ This repository contains HTML, CSS, and JavaScript files to create a student por
 
 | HTML Tag | Purpose |
 | ------ | ----------- |
-| <header>   | Defines a header for a document or section.	|
-| <nav>| Defines navigation links.|
-| <section>| Defines a section in a document. |
-| <article>|Defines an article.. |
-| <footer>| 	Defines a footer for a document or section.|
-| <img>| Embeds an image in the document.|
-| <a>| Defines a hyperlink.|
+| header   | Defines a header for a document or section.	|
+| nav| Defines navigation links.|
+| section| Defines a section in a document. |
+| article |Defines an article.. |
+| footer| 	Defines a footer for a document or section.|
+| img| Embeds an image in the document.|
+| a| Defines a hyperlink.|
 
 ## JavaScript Functions
 
