@@ -40,7 +40,7 @@ This repository contains HTML, CSS, and JavaScript files to create a student por
 
 ## Project Explanation
 
-#This portfolio project is designed to showcase the skills and projects of a student. It includes the following sections:
+# This portfolio project is designed to showcase the skills and projects of a student. It includes the following sections:
 
 *Home: An introduction to the portfolio.*
 
