@@ -8,11 +8,12 @@ This project is a static website template for a student portfolio. It showcases 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Images](#Images)
-- [Project Screenshots](#project-screenshots)
 - [Project Explanation ](#project-explanation)
 - [Styling](#Styling)
 - [HTML Tags](#HTMLTags)
 - [JavaScript Functions](#JavaScriptFunctions)
+- [Project Screenshots](#project-screenshots)
+
 
 ## Description
 
