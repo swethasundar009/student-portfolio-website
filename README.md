@@ -83,28 +83,59 @@ This repository contains HTML, CSS, and JavaScript files to create a student por
 | showProject| 	Displays the details of a selected project. |
 | scrollToTop | Smoothly scrolls the page back to the top. |
 
-## Screenshots
 
-**Here are the screenshots of the portfolio website:**
+## Installation
 
-![homeee](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/9c196681-393f-49af-9e7e-3ee07825d71e)
-![aboutt](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/d5109559-329a-4b03-be1f-d46595b7064d)
-![portfolioo](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/ef749c8a-18bf-4dd1-8926-7eeaba05011f)
-![contactt](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/24304903-149d-4541-a65b-59242790c374)
-![js1](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/3264b92c-9fad-42fc-a6e6-f26f7b8b52f1)
-![js2](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/fa323436-f13a-4390-be43-007e0c4bed19)
-![logo1](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/2c1425f7-d379-479d-bf45-cb7e584fc29d)
-![csss1](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/29d1106f-dea9-44bd-b40f-1d1be4412493)
-![csss2](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/4a1583b6-286a-4888-b328-ba13c9d4de7d)
-![csss3](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/908b0359-ff76-4254-88c9-f0b6dfbd4791)
-![csss4](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/dace0f9c-4478-492c-a076-9c5c8b33b1f6)
-![csss5](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/a08e6cd5-6149-43b4-a65b-dcd8350ff74e)
-![csss6](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/ce5d834f-06ab-493d-94c1-fc92f4d564e3)
-![csss7](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/2635f1d5-7d2d-4db0-8a0f-44cc8f54f44f)
-![csss8](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/9745bce9-0e86-4edb-9e88-39b0c3a8a01e)
-![ress1](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/38d28bb0-0560-4c12-991a-9e4c55c78fb5)
-![ress2](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/62099a4f-82a4-4388-8b0c-07977538432e)
-![ress3](https://github.com/swethasundar009/student-portfolio-website/assets/173354268/9428340f-5fb8-48df-8f24-8221b8ee36df)
+### Prerequisites
+
+- A web browser (e.g., Chrome, Firefox)
+- [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+
+### Steps
+
+1. ## Clone the repository
+
+   Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
+
+   ```sh
+   git clone https://github.com/swethasundar009/student-portfolio-website
+   
+2. ## Navigate to the Project Directory
+
+Once the repository is cloned, navigate to the project directory:
+
+```sh
+cd Student-Portfolio-Site
+
+3. ## Install Visual Studio Code
+
+If you haven't installed VS Code yet, download and install it from the official website.
+
+4. ## Open the Project in VS Code
+
+Open Visual Studio Code, then open the project directory. You can do this by selecting File > Open Folder and navigating to the Student-Portfolio-Site directory.
+
+5. ## Review the Project Structure
+
+Take a look at the project structure and familiarize yourself with the different files and folders.
+
+6. ## Run the Project
+
+To run the project, open the studentportfolio.html file in a web browser. You can do this by dragging and dropping the file into a browser window or by using a live server extension available in VS Code.
+
+**If you prefer using the live server extension in VS Code:**
+
+* Install the Live Server extension.
+* Right-click the index.html file and select Open with Live Server.
+
+## Usage
+Navigate through the site to view contact information and other sections.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License. 
 
 
 
