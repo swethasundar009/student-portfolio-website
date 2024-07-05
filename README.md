@@ -8,10 +8,10 @@ This project is a static website template for a student portfolio. It showcases 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Images](#Images)
-- [Project Explanation ](#project-explanation)
 - [Styling](#Styling)
 - [HTML Tags](#HTMLTags)
 - [JavaScript Functions](#JavaScriptFunctions)
+- [Project Explanation ](#project-explanation)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
@@ -42,18 +42,6 @@ This repository contains HTML, CSS, and JavaScript files to create a student por
 * html,css,js.jpg: Represents web development technologies in the project section.
 * flutter.jpg: Represents the Flutter framework in the project section.
 * python.jpg: Represents Python programming in the project section.
-
-## Project Explanation
-
-### This portfolio project is designed to showcase the skills and projects we offer for students. It includes the following sections:
-
-*Home: An introduction to the portfolio.*
-
-*About: The About section provides details about our Prince Academy. It includes information about our background, our educational offerings, and the skills we teach our students.*
-
-*Portfolio: A gallery of projects with descriptions and images. The Portfolio section contains projects we teach and the skills students acquire in our institute. Each project is displayed with a description and images showcasing the students' work.*
-
-*Contact: A contact form where users can enter their name, email, and a message*
 
 ## Styling
 
@@ -86,6 +74,18 @@ This repository contains HTML, CSS, and JavaScript files to create a student por
 | validateForm| 	Validates the contact form before submission.|
 | showProject| 	Displays the details of a selected project. |
 | scrollToTop | Smoothly scrolls the page back to the top. |
+
+## Project Explanation
+
+### This portfolio project is designed to showcase the skills and projects we offer for students. It includes the following sections:
+
+*Home: An introduction to the portfolio.*
+
+*About: The About section provides details about our Prince Academy. It includes information about our background, our educational offerings, and the skills we teach our students.*
+
+*Portfolio: A gallery of projects with descriptions and images. The Portfolio section contains projects we teach and the skills students acquire in our institute. Each project is displayed with a description and images showcasing the students' work.*
+
+*Contact: A contact form where users can enter their name, email, and a message*
 
 
 ## Installation
