@@ -132,7 +132,7 @@ To run the project, open the studentportfolio.html file in a web browser. You ca
 **If you prefer using the live server extension in VS Code:**
 
 * Install the Live Server extension.
-* Right-click the index.html file and select Open with Live Server.
+* Right-click the studentportfolio.html file and select Open with Live Server.
 
 ## Usage
 Navigate through the site to view contact information and other sections.
