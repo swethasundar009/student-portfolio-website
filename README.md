@@ -12,7 +12,11 @@ This project is a static website template for a student portfolio. It showcases 
 - [Styling](#Styling)
 - [HTML Tags](#HTMLTags)
 - [JavaScript Functions](#JavaScriptFunctions)
-- [Project Screenshots](#project-screenshots)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+
 
 
 ## Description
@@ -93,33 +97,35 @@ This repository contains HTML, CSS, and JavaScript files to create a student por
 
 ### Steps
 
-1. ## Clone the repository
+ ## 1. Clone the repository
 
    Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
 
    ```sh
    git clone https://github.com/swethasundar009/student-portfolio-website
+   ```
    
-2. ## Navigate to the Project Directory
+ ## 2. Navigate to the Project Directory
 
 Once the repository is cloned, navigate to the project directory:
 
-```sh
-cd Student-Portfolio-Site
+   ```sh
+  cd Student-Portfolio-Site
+   ```
 
-3. ## Install Visual Studio Code
+ ## 3.Install Visual Studio Code
 
 If you haven't installed VS Code yet, download and install it from the official website.
 
-4. ## Open the Project in VS Code
+ ## 4. Open the Project in VS Code
 
 Open Visual Studio Code, then open the project directory. You can do this by selecting File > Open Folder and navigating to the Student-Portfolio-Site directory.
 
-5. ## Review the Project Structure
+ ## 5. Review the Project Structure
 
 Take a look at the project structure and familiarize yourself with the different files and folders.
 
-6. ## Run the Project
+ ## 6. Run the Project
 
 To run the project, open the studentportfolio.html file in a web browser. You can do this by dragging and dropping the file into a browser window or by using a live server extension available in VS Code.
 
